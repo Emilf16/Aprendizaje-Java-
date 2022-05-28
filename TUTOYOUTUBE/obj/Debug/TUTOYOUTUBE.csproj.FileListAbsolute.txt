@@ -1,0 +1,11 @@
+C:\Users\yopro\source\repos\TUTOYOUTUBE\TUTOYOUTUBE\bin\Debug\TUTOYOUTUBE.exe.config
+C:\Users\yopro\source\repos\TUTOYOUTUBE\TUTOYOUTUBE\bin\Debug\TUTOYOUTUBE.exe
+C:\Users\yopro\source\repos\TUTOYOUTUBE\TUTOYOUTUBE\bin\Debug\TUTOYOUTUBE.pdb
+C:\Users\yopro\source\repos\TUTOYOUTUBE\TUTOYOUTUBE\obj\Debug\TUTOYOUTUBE.csproj.AssemblyReference.cache
+C:\Users\yopro\source\repos\TUTOYOUTUBE\TUTOYOUTUBE\obj\Debug\TUTOYOUTUBE.csproj.SuggestedBindingRedirects.cache
+C:\Users\yopro\source\repos\TUTOYOUTUBE\TUTOYOUTUBE\obj\Debug\TUTOYOUTUBE.Form1.resources
+C:\Users\yopro\source\repos\TUTOYOUTUBE\TUTOYOUTUBE\obj\Debug\TUTOYOUTUBE.Properties.Resources.resources
+C:\Users\yopro\source\repos\TUTOYOUTUBE\TUTOYOUTUBE\obj\Debug\TUTOYOUTUBE.csproj.GenerateResource.cache
+C:\Users\yopro\source\repos\TUTOYOUTUBE\TUTOYOUTUBE\obj\Debug\TUTOYOUTUBE.csproj.CoreCompileInputs.cache
+C:\Users\yopro\source\repos\TUTOYOUTUBE\TUTOYOUTUBE\obj\Debug\TUTOYOUTUBE.exe
+C:\Users\yopro\source\repos\TUTOYOUTUBE\TUTOYOUTUBE\obj\Debug\TUTOYOUTUBE.pdb
